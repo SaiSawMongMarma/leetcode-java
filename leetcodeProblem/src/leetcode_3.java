@@ -1,9 +1,4 @@
-//Longest Substring without repeating characters.
-//Given a string s, find the length of the longest substring without duplicate characters.
-//Input: "abcabcbb"
-//output: 3
-//Because abc is the longest substring without repeating characters.
-//Sliding Window + Hashset
+//3. Longest Substring Without Repeating Characters
 
 import java.util.HashSet;
 public class leetcode_3 {
