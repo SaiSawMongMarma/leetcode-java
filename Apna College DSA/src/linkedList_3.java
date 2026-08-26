@@ -25,4 +25,8 @@
 //        }
 //    }
 
+public class linkedList_3{
+
+}
+
 

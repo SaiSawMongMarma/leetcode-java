@@ -23,14 +23,14 @@ public class linkedList_2 {
         }
     }
 
-
+//add - first
     public void addFirst(String data) {
         Node newNode = new Node(data);
         newNode.next = head;
         head = newNode;
     }
-
-    public void addLast(String data) {
+// add - last
+public void addLast(String data) {
         Node newNode = new Node(data);
 
 
@@ -39,7 +39,7 @@ public class linkedList_2 {
             return;
         }
 
-
+//for traverse or travel
         Node lastNode = head;
         while(lastNode.next != null) {
             lastNode = lastNode.next;
