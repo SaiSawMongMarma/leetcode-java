@@ -6,6 +6,10 @@
  * String param_2 = obj.get(key,timestamp);
  */
 
+//Path-Value-Timestamp
+//Path is the common HashMap key
+//by searching timestamp we will collect value
+
 import java.util.*;
 public class leetcode_981 {
     private Map<String, TreeMap<Integer, String>> map;
