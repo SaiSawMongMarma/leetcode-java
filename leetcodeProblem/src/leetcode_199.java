@@ -1,3 +1,6 @@
+//Binary Tree right side view
+//By using BFS left to right selecting last child
+//Time:O(n) Space:O(n)
 
 import java.util.*;
 public class leetcode_199 {
@@ -16,6 +19,8 @@ public class leetcode_199 {
 
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer> result = new ArrayList<>();
+
+//        checking if root is null
         if (root == null) {
             return result;
         }
