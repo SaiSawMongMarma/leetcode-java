@@ -1,5 +1,8 @@
 //Count Good Nodes in Binary Tree
-
+//Depth-First-Search
+//Pre-Order Traversal
+//BackTracking
+//Maximum value in paths.
 public class leetcode_1448 {
 
     public class TreeNode {
