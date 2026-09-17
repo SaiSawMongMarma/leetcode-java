@@ -6,7 +6,7 @@
 
 import java.util.Stack;
 
-public class leetcode_84 {
+public class leetcodeA_84 {
     public int largestRectangleArea(int[] heights){
         int maxArea = 0;
         Stack<Integer> stack = new Stack<>();

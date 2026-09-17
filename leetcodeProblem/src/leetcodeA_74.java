@@ -3,7 +3,7 @@
 //n=4 (column)
 //1D Array as 2D Matrix solving by using Binary Search
 
-public class leetcode_74 {
+public class leetcodeA_74 {
     public boolean searchMatrix(int[][] matrix, int target) {
         int m = matrix.length;
         int n = matrix[0].length;

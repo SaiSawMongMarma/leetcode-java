@@ -1,4 +1,4 @@
-public class leetcode_141 {
+public class leetcodeB_141 {
     //    creating node first
     class ListNode {
         int val;

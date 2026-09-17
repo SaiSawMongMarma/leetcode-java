@@ -3,7 +3,7 @@
 //Time:O(n) Space:O(n)
 
 import java.util.*;
-public class leetcode_199 {
+public class leetcodeB_199 {
     public class TreeNode {
         int val;
         TreeNode left;

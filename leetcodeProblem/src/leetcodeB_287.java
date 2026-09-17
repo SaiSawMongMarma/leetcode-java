@@ -4,7 +4,7 @@
 //Linked List Cycle Finding Duplicate
 //Time=O(n) Space=O(1)
 
-public class leetcode_287 {
+public class leetcodeB_287 {
     public int findDuplicate(int[] nums) {
         // Initialize the slow and fast pointers
         int slow = nums[0];

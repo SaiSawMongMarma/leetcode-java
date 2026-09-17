@@ -1,6 +1,6 @@
 //Diameter of Binary tree
 //Time=O(n)
-public class leetcode_543 {
+public class leetcodeB_543 {
     public class TreeNode {
       int val;
       TreeNode left;

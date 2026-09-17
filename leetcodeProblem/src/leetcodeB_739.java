@@ -7,7 +7,7 @@
 
 import java.util.Stack;
 
-public class leetcode_739 {
+public class leetcodeB_739 {
     public int[] dailyTemperature(int[] temperatures){
 //        mark out the length of the initial array
         int n = temperatures.length;

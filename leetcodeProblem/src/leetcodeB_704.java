@@ -1,7 +1,7 @@
 //Binary Search
 
 
-public class leetcode_704 {
+public class leetcodeB_704 {
     public int search(int[] nums, int target) {
         int left = 0, right = nums.length -1;
 

@@ -7,7 +7,7 @@
 //Detecting cycle in the linked list
 //Floy's Algorithm or Hare & Turtle Approach
 
-public class leetcode_234 {
+public class leetcodeB_234 {
 
     //    creating node first
     class ListNode {

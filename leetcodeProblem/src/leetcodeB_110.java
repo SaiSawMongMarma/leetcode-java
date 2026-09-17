@@ -4,7 +4,7 @@
 //Time=O(n) Space=O(1(recursive))
 
 
-public class leetcode_110 {
+public class leetcodeB_110 {
 //    BluePrint
     public class TreeNode {
         int val;

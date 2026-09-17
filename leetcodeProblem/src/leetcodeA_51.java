@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class leetcode_51 {
+public class leetcodeA_51 {
     //    safe or not
     public boolean isSafe(int row, int col, char[][] board){
 //        horizontal

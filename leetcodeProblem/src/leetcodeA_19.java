@@ -3,8 +3,7 @@
 //Find the nth node from the end & remove it.
 //size-n+1(dfs)
 
-import java.util.LinkedList;
-public class leetcode_19 {
+public class leetcodeA_19 {
 
 //    creating node first
     class ListNode {

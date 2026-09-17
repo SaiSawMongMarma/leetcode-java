@@ -1,5 +1,5 @@
 
-public class leetcode_572 {
+public class leetcodeB_572 {
 // * Definition for a binary tree node.
   public class TreeNode {
       int val;

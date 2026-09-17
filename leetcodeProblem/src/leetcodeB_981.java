@@ -17,10 +17,10 @@
 
 
 import java.util.*;
-public class leetcode_981 {
+public class leetcodeB_981 {
     private Map<String, TreeMap<Integer, String>> map;
 
-    public leetcode_981() {
+    public leetcodeB_981() {
         map = new HashMap<>();
     }
 

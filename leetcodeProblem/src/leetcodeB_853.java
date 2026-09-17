@@ -6,7 +6,7 @@
 
 import java.util.Arrays;
 
-public class leetcode_853 {
+public class leetcodeB_853 {
     public int carFleet(int target, int[] position, int[] speed) {
         int n = position.length;
 //        Car & subsiquent time to reach to the end
