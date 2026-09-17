@@ -1,4 +1,4 @@
-public class leetcode_2{
+public class leetcode0_2 {
 
     // Definition of Linked List node
     static class ListNode {
